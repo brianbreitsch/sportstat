@@ -1,0 +1,10 @@
+*.pyc
+.DS_Store
+cfbEnvironment
+*.db
+wsgi.py
+Procfile
+__pycache__
+*.egg-info/
+.ipynb_checkpoints
+build
